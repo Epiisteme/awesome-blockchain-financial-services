@@ -9,3 +9,9 @@ Awesome Apps and Assets Around Blockchain Technology in Banking Sector
 
 ### Prevention of Money Laundering
 - https://internationalbanker.com/technology/blockchain-aml-harnessing-blockchain-technology-detect-prevent-money-laundering/
+
+### Central Bank Digital Money
+- https://www.mas.gov.sg/schemes-and-initiatives/project-ubin
+
+### Multi Currency Blockchain Payments
+- https://www.ledgerinsights.com/monetary-authority-of-singapore-multi-currency-blockchain-payments-experiment-jp-morgan-tech/
